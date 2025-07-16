@@ -59,7 +59,7 @@ Sou apaixonada por tecnologia, movida pela curiosidade e pelo desejo de construi
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/claraorcajodev" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-clara-rocha-orcajo-a8aa80212/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/claraorcajodev" target="_blank">
