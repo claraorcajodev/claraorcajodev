@@ -1,7 +1,7 @@
 # Maria Clara Rocha Orcajo
 **Desenvolvedora em Formação**
 
-Entusiasta de tecnologia focado em aprender desenvolvimento de software "do jeito certo": entendendo os fundamentos.
+Entusiasta de tecnologia focada em aprender desenvolvimento de software "do jeito certo": entendendo os fundamentos.
 
 Atualmente, dedico meu tempo a projetos práticos usando **JavaScript puro** para fortalecer minha lógica de programação, enquanto exploro o universo **Java** para expandir meus conhecimentos para o Back-end.
 
